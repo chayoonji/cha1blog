@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>강의자료실</title>
+    </head>
+    
+    <body>
+        <a href="about.html">자기소개</a>
+        <h1>안녕 보임??이거 지금 실시간 수업중인거 기록중인 사이트</h1>
+        <h2>제목 태그</h2>
+        <hr />
+
+        <p>Lorem 이라고 쓰면 자동으로 막 글자 채워줌 뒤에 숫자 쓰면 그만큼의 단어를 넣어줌 (랜덤으로?)</p>
+
+        <hr />
+
+        <p>hr / 을 사용하면 줄긋기</p>
+
+        <hr />
+
+        <p>귀엽네.. 만족..</p>
+        <img src="anythinf.jpg" height="200px">
+
+        <hr />
+
+        <p>! 쓰고 tap 누르면 기본적 뼈대 만들어짐</p>
+        <img src="asfasd.PNG" height="400px">
+        <p>   title 부터 건들기</p>
+        <p>   index는 기본 이름 아무런 지정이 없을 때 첫번째로 실행됨 </p>
+
+        <hr />
+
+        <p>alt + 쉬프트 누르고 화살표 ↓ 이런거 누르면 자동으로 복붙됨!! 충격적 드레그 하고 나서도 사용 가능</p>
+
+        <hr />
+        
+        <p>HTML5 : sfaasfklfalkfsaklnfnnk</p>
+        <p>CSS5 : ffkfakmsfalkmasfasf</p>
+        <p>Javascript : Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores fuga eius eos alias ipsum sapiente cum. Unde, asperiores minima totam vel neque illum est, dolorem sed tempore laborum minus ut.</p>
+
+        <div>
+            <div> hello</div>
+            <div> world</div>
+        </div>
+
+    </body>
+    
+</html>

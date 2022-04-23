@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: aquamarine;
+  color: blue;
+}
+
+p {
+  text-align: center;
+  color: red;
+}
+
+body {
+  background-color: gray;
+}
+
+.accent {
+  border: 1px solid #000;
+  padding: 15px;
+  margin: 10px;
+}
+
+.bg {
+  background-color: rgb(223, 168, 168);
+}
